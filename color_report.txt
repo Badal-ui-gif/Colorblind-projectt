@@ -1,0 +1,14 @@
+COLOR REPORT
+
+Image palette:
+  #F4D598  Peach  26%
+  #E9E2B9  Cream  22%
+  #BAA16B  Sand  16%
+  #DB9B5A  Skin Tone  14%
+  #864317  Brown  6%
+  #7F6250  Dark Gray  6%
+  #D36C18  Burnt Orange  5%
+  #321912  Black  4%
+
+AI assistant:
+Press A to ask the AI assistant to describe this image and its colors.

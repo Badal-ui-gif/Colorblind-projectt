@@ -1,0 +1,1 @@
+Error: Could not reach Ollama at localhost:11434. Install it from ollama.com, make sure it is running, and run 'ollama pull llava'.
